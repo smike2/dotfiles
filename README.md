@@ -1,4 +1,4 @@
-# rust-new-project-template
+0# rust-new-project-template
 A good starting point for a new Rust project
 
 ## References
